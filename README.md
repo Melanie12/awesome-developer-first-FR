@@ -12,10 +12,12 @@ Based in France myself, I want to promote the awesome developer first companies 
 
 - [Scaleway](https://www.scaleway.com/fr/) : Build, deploy and scale applications to any infrastructure.
 - [OVH](https://www.ovhcloud.com/) : The leading European cloud provider.
+- [Platform.sh](https://platform.sh/) : Continuously deploy full-stack apps.
 
 # Documentation
 
-- [GitBook](https://www.gitbook.com/) : Where technical teams document
+- [Bump.sh](https://bump.sh/) : API change management solution.
+- [GitBook](https://www.gitbook.com/) : Where technical teams document.
 
 # Natural Language Processing
 
@@ -34,4 +36,5 @@ Based in France myself, I want to promote the awesome developer first companies 
 
 # Security
 
+- [Bearer](https://www.bearer.com/) : Monitor sensitive data flows with static code analysis.
 - [GitGuardian](https://www.gitguardian.com/) : Scan your source code to detect sensitive data in real-time.
