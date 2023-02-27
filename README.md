@@ -21,7 +21,6 @@ Based in France myself, I want to promote the awesome developer first companies 
 
 - [Hugging Face](https://huggingface.co/) : Build, train and deploy state of the art models powered by the reference open source in machine learning. #opensource
 
-# Orchestration
 
 # Payments
 
