@@ -5,7 +5,7 @@ Based in France myself, I want to promote the awesome developer first companies 
 
 # CMS
 
-- [Strapi](https:www.strapi.io) : Leading Open-source headless CMS. #opensource #selfhosted #cloud
+- [Strapi](https://strapi.io) : Leading Open-source headless CMS. #opensource #selfhosted #cloud
 - [Prismic](https://prismic.io) : Headless CMS Website Builder
 
 # Deployment Hosting
