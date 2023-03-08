@@ -6,7 +6,7 @@ Based in France myself, I want to promote the awesome developer first companies 
 # CMS
 
 - [Strapi](https://strapi.io) : Leading Open-source headless CMS. #opensource #selfhosted #cloud
-- [Prismic](https://prismic.io) : Headless CMS Website Builder
+- [Prismic](https://prismic.io) : Headless CMS Website Builder.
 
 # Deployment Hosting
 
@@ -19,6 +19,10 @@ Based in France myself, I want to promote the awesome developer first companies 
 - [Bump.sh](https://bump.sh/) : API change management solution.
 - [GitBook](https://www.gitbook.com/) : Where technical teams document.
 
+# ETL
+
+- [Airbyte](https://airbyte.com/) : Data integration platform. #opensource
+
 # Natural Language Processing
 
 - [Hugging Face](https://huggingface.co/) : Build, train and deploy state of the art models powered by the reference open source in machine learning. #opensource
@@ -26,13 +30,13 @@ Based in France myself, I want to promote the awesome developer first companies 
 
 # Payments
 
-- [Lago](https://www.getlago.com/) : Open-source metering and usage-based billing #selfhosted #opensource
+- [Lago](https://www.getlago.com/) : Open-source metering and usage-based billing. #selfhosted #opensource
 
 
 # Search 
 
-- [Algolia](https://www.algolia.com/) : Search and discovery platform
-- [Meilisearch](https://www.meilisearch.com/) : Open-source search engine #opensource
+- [Algolia](https://www.algolia.com/) : Search and discovery platform.
+- [Meilisearch](https://www.meilisearch.com/) : Open-source search engine. #opensource
 
 # Security
 
