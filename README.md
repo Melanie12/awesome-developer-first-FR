@@ -31,6 +31,7 @@ Based in France myself, I want to promote the awesome developer first companies 
 # Payments
 
 - [Lago](https://www.getlago.com/) : Open-source metering and usage-based billing. #selfhosted #opensource
+- [Mangopay](https://mangopay.com/) : Modular payment infrastructure for platforms and marketplaces.
 
 
 # Search 
