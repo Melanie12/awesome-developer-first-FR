@@ -13,6 +13,7 @@ Based in France myself, I want to promote the awesome developer first companies 
 - [Scaleway](https://www.scaleway.com/fr/) : Build, deploy and scale applications to any infrastructure.
 - [OVH](https://www.ovhcloud.com/) : The leading European cloud provider.
 - [Platform.sh](https://platform.sh/) : Continuously deploy full-stack apps.
+- [Qovery](https://www.qovery.com): Platform offering a Developer Experience on top of your cloud infrastructure.
 
 # Documentation
 
