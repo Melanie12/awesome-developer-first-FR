@@ -24,9 +24,16 @@ Based in France myself, I want to promote the awesome developer first companies 
 
 - [Airbyte](https://airbyte.com/) : Data integration platform. #opensource
 
-# Natural Language Processing
+# Artificial Intelligence
 
 - [Hugging Face](https://huggingface.co/) : Build, train and deploy state of the art models powered by the reference open source in machine learning. #opensource
+- [Pruna](https://pruna.ai): Make your AI model 2-10x cheaper, faster, smaller and greener in one line of code.
+- [Thinkeo](https://www.thinkeo.io/): Nocode platform to build AI Apps
+- [FlexAI](https://flex.ai/): Deliver universal AI compute by rearchitecting compute infrastructure at a system level.
+- [Chainlit](https://docs.chainlit.io/get-started/overview): Chainlit is an open-source Python package to build production ready Conversational AI.#opensource
+- [Eden AI](https://www.edenai.co/): Simplify the use and deployment of AI technologies by providing a unique API connected to AI engines.
+- [Gladia](https://gladia.io/): Audio Intelligence API
+- [LaVague](https://github.com/lavague-ai/LaVague): Open-source Large Action Model framework to automate web interaction. #opensource
 
 
 # Payments
