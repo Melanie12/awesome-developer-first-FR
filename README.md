@@ -51,3 +51,4 @@ Based in France myself, I want to promote the awesome developer first companies 
 
 - [Bearer](https://www.bearer.com/) : Monitor sensitive data flows with static code analysis.
 - [GitGuardian](https://www.gitguardian.com/) : Scan your source code to detect sensitive data in real-time.
+- [Prelude](https://prelude.so/): Developer-first SMS verification and OTP API
