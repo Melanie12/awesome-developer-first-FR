@@ -14,7 +14,7 @@ Some tools listed here may have changed their headquarters locations.
 - [Name](link to website) : Short description #oss #selfhosted #cloud 
 
 # Deployment Hosting
-- [Name](link to website) : Short description #oss #selfhosted #cloud 
+- [Tridah](https://tridah.cloud/) : All-in-one organizational platform with integrated business tools #oss #cloud 
 
 # Documentation
 - [Name](link to website) : Short description #oss #selfhosted #cloud 

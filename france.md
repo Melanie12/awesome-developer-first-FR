@@ -37,6 +37,7 @@ Some tools listed here may have changed their headquarters locations.
 - [Koyeb](https://www.koyeb.com/): Deploy intensive applications across GPUs, CPUs, and Accelerators in minutes - scale in 50+ locations.
 - [Clever Cloud](https://www.clever.cloud/) : European PaaS / cloud platform for deploying apps.
 - [Ikoula](https://www.ikoula.com): Hosting and cloud infrastructure.
+- [Tiger API Client](https://github.com/jtaoufik/tiger): A local-first, account-free Postman alternative with a built-in MCP server, SOAP/GraphQL, request chaining and performance runs. #oss #self-host 
 
 ## Documentation
 
