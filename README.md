@@ -29,7 +29,7 @@ Obviously I am not omnicient :-) Help me fill these repository with your favorit
 - [Czechia](czechia.md) 
 - Denmark
 - Estonia
-- Finland
+- [Finland](finland.md)
 - [France](france.md)
 - [Germany](germany.md)
 - Greece
